@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/IMCConstraintLayout/app/src/main/res/drawable/activity_background.xml" value="0.2785" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/IMCConstraintLayout/app/src/main/res/drawable/button_background.xml" value="0.307" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/IMCConstraintLayout/app/src/main/res/drawable/edit_text_background.xml" value="0.24" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/IMCConstraintLayout/app/src/main/res/drawable/text_view_resultado_background.xml" value="0.2135" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/IMCConstraintLayout/app/src/main/res/layout/activity_cadastro.xml" value="0.33" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/IMCConstraintLayout/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/IMCConstraintLayout/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/IMCConstraintLayout/app/src/main/res/layout/activity_resultado.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-CAPITULO-07-PROFESSOR/app/src/main/res/drawable/ic_directions_run_24.xml" value="0.3235" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-CAPITULO-07-PROFESSOR/app/src/main/res/drawable/ic_edit_24.xml" value="0.2215" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-CAPITULO-07-PROFESSOR/app/src/main/res/layout/activity_cadastro.xml" value="0.25" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-CAPITULO-07-PROFESSOR/app/src/main/res/layout/activity_dash_board.xml" value="0.6153846153846154" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-CAPITULO-07-PROFESSOR/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-CAPITULO-07-PROFESSOR/app/src/main/res/layout/activity_pesagem.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-CAPITULO-07-PROFESSOR/app/src/main/res/layout/historico_recycler_view_layout.xml" value="0.67" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-CAPITULO-07-TEMPLATE-FINAL/app/src/main/res/drawable/ic_directions_run_24.xml" value="0.3235" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-CAPITULO-07-TEMPLATE-FINAL/app/src/main/res/drawable/ic_edit_24.xml" value="0.3235" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-CAPITULO-07-TEMPLATE-FINAL/app/src/main/res/layout/historico_recycler_view_layout.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-SHARED-GRAVAR/app/src/main/res/layout/activity_cadastro.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-SHARED-GRAVAR/app/src/main/res/layout/activity_dash_board.xml" value="0.33" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-SHARED-GRAVAR/app/src/main/res/layout/activity_login.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-SHARED-GRAVAR/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-SHARED-GRAVAR/app/src/main/res/layout/activity_resultado.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/MBA-ON-GRAVACOES/IMCConstraintLayout-SHARED-GRAVAR/app/src/main/res/layout/historico_recycler_view_layout.xml" value="0.5" />
+        <entry key="..\:/fiap-webservice/fiap_template_webservice/app/src/main/res/layout/activity_cadastro.xml" value="0.3411458333333333" />
+        <entry key="..\:/fiap-webservice/fiap_template_webservice/app/src/main/res/layout/activity_dash_board.xml" value="0.5" />
+        <entry key="..\:/fiap-webservice/fiap_template_webservice/app/src/main/res/layout/activity_login.xml" value="0.3411458333333333" />
+        <entry key="..\:/fiap-webservice/fiap_template_webservice/app/src/main/res/layout/historico_recycler_view_layout.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

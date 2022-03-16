@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".gui.LoginActivity">
+
+    <TextView
+        android:id="@+id/text_view_titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="48dp"
+        android:text="Calculadora"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/text_view_imc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IMC"
+        android:textColor="#F50057"
+        android:textSize="48sp"
+        android:textStyle="bold"
+        app:layout_constraintRight_toRightOf="@id/text_view_titulo"
+        app:layout_constraintTop_toBottomOf="@id/text_view_titulo" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="32dp"
+        android:text="LOGIN"
+        android:textColor="@color/white"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_view_imc" />
+
+    <EditText
+        android:id="@+id/edit_text_login_email"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="32dp"
+        android:background="@drawable/edit_text_background"
+        android:drawableStart="@drawable/ic_email_24"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/red_fiap"
+        android:ems="10"
+        android:hint="Qual o seu e-mail?"
+        android:inputType="textEmailAddress"
+        android:padding="14dp"
+        app:layout_constraintBottom_toTopOf="@+id/edit_text_login_pasword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <EditText
+        android:id="@+id/edit_text_login_pasword"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/edit_text_background"
+        android:drawableStart="@drawable/ic_lock_24"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/red_fiap"
+        android:ems="10"
+        android:hint="Qual a sua senha?"
+        android:inputType="numberPassword"
+        android:padding="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/edit_text_login_email"
+        app:layout_constraintStart_toStartOf="@+id/edit_text_login_email"
+        app:layout_constraintTop_toBottomOf="@+id/edit_text_login_email" />
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:background="@drawable/button_background"
+        android:text="Login"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/edit_text_login_pasword"
+        app:layout_constraintStart_toStartOf="@+id/edit_text_login_pasword"
+        app:layout_constraintTop_toBottomOf="@+id/edit_text_login_pasword" />
+
+    <TextView
+        android:id="@+id/text_view_novo_usuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Cadastrar novo usuário"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="@+id/btn_login"
+        app:layout_constraintTop_toBottomOf="@+id/btn_login" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
